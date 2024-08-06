@@ -46,4 +46,3 @@ while authorized != True:
 #     else:
 #         print("არასწორია")
 
-
