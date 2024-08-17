@@ -1,5 +1,5 @@
 from turtle import *
-speed(5)
+speed(1000000)
 color("green")
 forward(300)
 left(180-45)
