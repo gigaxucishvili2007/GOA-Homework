@@ -1,0 +1,2 @@
+snowflake = "*"
+print(snowflake)
