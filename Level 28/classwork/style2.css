@@ -1,0 +1,19 @@
+    h1{
+        color: rgb(15, 131, 226);
+    }        
+    h2{
+        color: rgb(223, 112, 1);
+    }
+    
+        h3{
+        color: rgb(254, 237, 0);
+    }
+    
+    h4{
+        text-align: right;
+        color: turquoise;
+    }
+  
+    p{
+    color: rebeccapurple;
+}
