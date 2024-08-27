@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     background-color: chartreuse;
 }
@@ -8,4 +9,16 @@ b{
     body{
         background-color: chartreuse;
     }
+=======
+body{
+    background-color: chartreuse;
+}
+
+b{
+    color: rgb(4, 77, 92);
+    text-decoration-style: solid;
+    body{
+        background-color: chartreuse;
+    }
+>>>>>>> 45e32c4c8a2c6cc07dd7d82997e10336990c06f1
 }

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 h1{
     color: red;
     text-align: center;
@@ -9,4 +10,17 @@ h2{
 p{
     color: turquoise;
     text-align: inherit;
+=======
+h1{
+    color: red;
+    text-align: center;
+}
+h2{
+    color: purple;
+    text-align: center;
+}
+p{
+    color: turquoise;
+    text-align: inherit;
+>>>>>>> 45e32c4c8a2c6cc07dd7d82997e10336990c06f1
 }

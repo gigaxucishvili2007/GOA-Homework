@@ -1,3 +1,4 @@
+<<<<<<< HEAD
     p{
         color: aqua;
     }
@@ -33,4 +34,41 @@
     u{
         color: thistle;
         background-color: teal;
+=======
+    p{
+        color: aqua;
+    }
+    h1{
+        color: yellow;
+        font-size: 15px;
+    }
+    h2{
+        color: turquoise;
+        font-family: 'Courier New', Courier, monospace;
+    }
+    h3{
+        color: slateblue;
+        text-shadow: cadetblue;
+
+    }
+    h4{
+        color: saddlebrown;
+    }
+    h5
+    {
+        color: sandybrown;
+        text-decoration: aqua;
+    }
+    h6{
+        text-align: center;
+        color: green;
+    }
+    button{
+        color: purple;
+        background-color: aqua;
+    }
+    u{
+        color: thistle;
+        background-color: teal;
+>>>>>>> 45e32c4c8a2c6cc07dd7d82997e10336990c06f1
     }
