@@ -1,0 +1,14 @@
+body{
+    background-image: url(./image.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    color: rgb(0, 198, 233);
+    font-size: large;
+    font-family: monospace;
+}
+h3{
+    color: purple;
+}

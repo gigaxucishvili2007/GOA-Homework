@@ -13,4 +13,4 @@ elif max_price > 12:
     print("ცოტა ძვირია")
 elif max_price < 12:
 >>>>>>> 5b85186ffeb3beaa4c995ccb4e3fbe7c371274e4
-    print("მისაღებია ჩემთვის ეს ფასი")        
+print("მისაღებია ჩემთვის ეს ფასი")

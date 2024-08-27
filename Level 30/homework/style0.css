@@ -1,0 +1,19 @@
+body{
+    background-image: url(basketball0.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+   color: rgb(8, 157, 108);
+}
+
+h2{
+    color: brown;
+    font-family: fantasy;
+}
+button{
+    color: rgb(9, 115, 105);
+    background-color: #1daa04;
+}

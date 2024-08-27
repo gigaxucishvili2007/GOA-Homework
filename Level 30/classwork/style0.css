@@ -1,0 +1,30 @@
+h1{
+    font-family: monospace ;
+    color: antiquewhite;
+    font-style: italic;
+    font-weight: bolder;
+}
+p{
+    color: aqua;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+    font-size: medium;
+}
+h2{
+    color: turquoise;
+    font-family: fantasy;
+    font-style: inherit;
+    font-size: x-large;
+}
+h3{
+    color: red;
+    font-family: cursive;
+    font-size: larger;
+    font-style: normal;
+}
+h4{
+    color: rgb(rgb(121, 8, 8), rgb(8, 109, 8), rgb(9, 222, 255));
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: initial;
+    font-size: 30px;
+}
