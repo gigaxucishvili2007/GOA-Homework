@@ -1,0 +1,36 @@
+img{
+    width: 200px;
+    height: 300px;
+}
+
+button{
+    
+    background-color: green;
+    
+    color: rgb(232, 222, 222);
+   
+    border-radius: 3px;
+    
+    border-radius: 4px;
+
+}
+
+
+h1{
+    
+    color: green;
+
+}
+
+
+h2{
+    color:rgb(62, 53, 42);
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 200px;
+}
+
+main {
+    background-color: rgb(20, 119, 119);
+    margin: 300px;
+    padding-top: 100px;
+}   

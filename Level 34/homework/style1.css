@@ -1,0 +1,71 @@
+body{
+    background-color: rgb(244, 222, 193);
+} 
+
+img{
+    width: 200px;
+    height: 300px;
+    border-radius: 5px;
+}
+
+button{
+    
+    background-color: rgb(154, 130, 44);
+    
+    color: rgb(232, 222, 222);
+   
+    border-radius: 3px;
+    
+    border-radius: 4px;
+
+}
+
+
+p{
+    
+    color: rgb(123, 111, 2);
+
+}
+
+
+
+
+
+div{
+    background-color: white;
+    width: 200px;
+    height: 300px;
+}
+.container{
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+    gap: 0px;
+    flex-wrap: wrap;
+
+}
+
+h1{
+    font-size: 20px;
+}
+
+button{
+    color: rgb(white);
+    background-color: green;
+    border-radius: 20px;
+}
+.heading{
+    color: green;
+}
+
+.heading2{
+    color: green;
+    font-size: 15px;
+    text-decoration: line-through;
+    text-align: right;
+    text-align: center;
+    span
+    
+    
+}
