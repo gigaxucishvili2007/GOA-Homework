@@ -8,7 +8,7 @@
 # გამოიყენეთ index() ფუნქცია რიცხვის 50 ინდექსის მოსაძიებლად.  
 # გამოიყენეთ count() ფუნქცია, რომ დადგინოთ რამდენჯერ ჩნდება 20 სიაში.
 
-
+#1 homework
 numbers = [10,20,30,40,50,60,70,80,90]
 
 numbers.append(100)
@@ -44,7 +44,7 @@ print(numbers)
 # შეცვალეთ მეორე ელემენტის მნიშვნელობა "მოცვი".
 # ამობეჭდეთ სიის სიგრძე.
             # 0        1           2         3           4
-
+#2 homework
 # fruits = ["apple" , "banana" , "cherry" , "date" , "elderberry"]
 
 # print(fruits)
@@ -66,7 +66,7 @@ print(numbers)
 
 
 
-
+#3homework
 # 4)საკლასო დავალება 3: დაჭრა და სიის გააზრება
 
 # შექმენით რიცხვების სია, რომელიც შეიცავს მთელ რიცხვებს 1-დან 10-მდე.
@@ -85,7 +85,7 @@ print(numbers)
 
 # დაბეჭდეთ სამივე სია: პირველი_ნახევარი, მეორე_ნახევარი და კვადრატები.
 
-
+#4homework
 lst = [1,2,3,4,5,6,7,8,9,10]
 
 first_half=lst[:5]
@@ -121,7 +121,7 @@ print(squares)
 
 
 
-
+#5homework
 temperature = [72, 68, 75, 70, 78, 74, 71]
 
 print(max(temperature))
@@ -136,3 +136,12 @@ print(sum(temperature)/len(temperature))
 above_70 = [72,75,78,74,71,70]
 
 print(*above_70)
+
+#6sololearn practice exercise
+queue = ["John" , "emi" , "bob" , "adam"]
+queue = input("enter name")
+queue.append(4,"Giga")
+
+print(queue)
+
+#აქ შეცდომა მაქვს და შემდეგ გაკვეთილზე უფრო კარგად ახსნიან და მერე ჩანაწერსაც ვუყურებ
