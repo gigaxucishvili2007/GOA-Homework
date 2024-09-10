@@ -1,0 +1,13 @@
+button{
+    background-image: url(./GOA.png);
+    color: aqua;
+    width: 400px;
+    height: 350px;
+}
+
+div{
+    background-image: url(./GOA1.png);
+    width: 250px;
+    height: 150px;
+    color: green;
+}
