@@ -12,3 +12,4 @@ words_list = ['The quick brown fox jumps over the lazy dog']
 # დავალება 4: ქვე-სტრინგების შეცვლა
 
 
+

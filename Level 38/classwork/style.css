@@ -1,0 +1,9 @@
+ul{
+    list-style-type: georgian;
+    
+    list-style-image
+    : url("https://www.sololearn.com/images/bullet.jpg");
+    
+    list-style-position: inside;
+    position: relative;
+}

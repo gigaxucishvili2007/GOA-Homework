@@ -1,0 +1,35 @@
+.box1 {
+    width: 240px;
+    height: 116px;
+    background-image: url(./illustration-hero.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+}
+.box2{
+    width: 240px;
+    height: 200px;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+}
+body {
+    background-image: url(./pattern-background-desktop.svg);
+}
+
+.first text {
+    text-align: center;
+
+}
+
+.second text {
+    margin-top: 100px;
+}
+
+.box3{
+    margin-left: 15px;
+    font-size: 10px;
+    display: flex;
+    justify-content: center;
+    margin-right: 60px;
+}

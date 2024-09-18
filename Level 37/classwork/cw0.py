@@ -1,5 +1,5 @@
-sent = "Huy"
-print(sent.replace("Huy" , "hey"))
+sent = "#"
+print(sent.replace("#" , "hey"))
 # # პრაქტიკული სავარჯიშო
 
 # სიმებიანი ფუნქციები

@@ -1,0 +1,58 @@
+a:hover{
+    font-size: 28px;
+    font-weight: bold;
+    transition: 1s;
+    background: yellow;
+    background-color: yellowgreen;
+}
+
+#color0:hover{
+    color: aquamarine;
+    background-color: rgb(5, 76, 120);
+}
+
+#color1:hover{
+    color: rgb(98, 174, 82);
+    background-color: rgb(47, 136, 169);
+    
+}
+
+#color2:hover{
+    background-color: yellow;
+    color: rgb(109, 113, 230);
+    
+    background: rgb(29, 110, 195);
+}
+#color3:hover{
+    color: rgb(175, 52, 149);
+    background:linear-gradient(to right,green, purple , black)
+}
+#color4:hover{
+    color: aqua;
+    background-color: rgb(41, 165, 181);
+}
+
+#color5:hover{
+    color: rgb(246, 163, 141);
+    background-color: rgb(120, 177, 246);
+}
+
+#color6:hover{
+    color: cornflowerblue;
+    background-color: rgb(121, 126, 244);
+}
+
+#color7:hover{
+    color: rgb(227, 117, 227);
+    background-color: rgb(72, 83, 232);
+}
+
+#color8:hover{
+    color: yellowgreen;
+    background-color: rgb(121, 125, 250);
+} 
+
+#color9:hover{
+    color: rgb(1, 107, 161);
+    /* background-color: rgb(2, 69, 122); */
+}
