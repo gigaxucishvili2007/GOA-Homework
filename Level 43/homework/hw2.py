@@ -2,4 +2,5 @@
 #ტიპის შეცდომა: ‘builtin_function_or_method’ ობიექტი არ არის სუბსკრიპტირებადი
 words = ",, ".join["apple" , "banana" , "cherry"]
 print(words)
+#ამას გავასწორებ აუცილებლად
 
