@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 table{
     background-color: aqua;
 
@@ -9,4 +10,17 @@ td{
     border-radius: 1px;
     width: 120px;
     height: 28px;
+=======
+table{
+    background-color: aqua;
+
+}
+
+td{
+    background-color: #a0522d;
+    text-align: center;
+    border-radius: 1px;
+    width: 120px;
+    height: 28px;
+>>>>>>> 240955cb440a52007dbf2920d28863631663662c
 }

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     background-image: url(./background\ div\ front.svg);
 
@@ -71,4 +72,79 @@ p{
 .p7{
     transform: translateY(-175px);
     margin-left: 150px;
+=======
+body{
+    background-image: url(./background\ div\ front.svg);
+
+    background-repeat: no-repeat;
+
+    background-size: cover;
+
+    background-color: rgb(26, 161, 173);
+}
+
+.div1{
+
+    width: 215px;
+    height: 160px;
+    background-image: url(./div\ background.svg);
+    margin-left: 300px;
+    margin-top: 100px;
+    border-radius: 5px;
+}
+
+.div2{
+    width: 215px;
+    height: 160px;
+    background-color: white;
+    border-radius: 5px;
+    margin-left: 300px;
+    transform: translateY(-70px);
+}
+
+img{
+    border-radius: 100%;
+    height: 60px;
+    width: 60px;
+    margin-left: 80px;
+}
+
+p{
+    color: black;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.p2{
+    margin-right: 157px;
+    margin-top: 35px;
+    transform: translateY(-25px);
+    /* მარჯვნიდან მარცხნივ წაიღოს 15 პიქსელით */
+}
+
+.p3{
+    transform: translateY(-35px);
+    margin-right: 157px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.p4{
+    transform: translateY(-95px);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.p5{
+    transform: translateY(-105px);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.p6{
+    transform: translateY(-165px);
+    margin-left: 150px;
+}
+
+.p7{
+    transform: translateY(-175px);
+    margin-left: 150px;
+>>>>>>> 240955cb440a52007dbf2920d28863631663662c
 }
