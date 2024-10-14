@@ -1,0 +1,32 @@
+.turtlesea1{
+    width: 350px;
+    height: 250px;
+    border-radius: 5px;
+}
+
+/* ეს არის მეორე CSS ფაილი შესავალი.ჰტმლ ის ფაილია ეს */
+
+.turtlsea2{
+    width: 350px;
+    height: 250px;
+    border-radius: 5px;
+    /* მოუმრგავლებს კუთხეებს თავებს ამ შემთხვევაში 5 პიქსელით */
+    margin-left: 380px;
+    transform: translateY(-255px);
+    /* წაიღე ჩემი სურათი მარცხნიდან მარჯვნივ და არა მარცხნივ! */
+}
+
+.turtlesea3{
+    width: 350px;
+    height: 250px;
+    border-radius: 5px;
+    transform: translateY(-200px);
+}
+
+.turtlesea4{
+    width: 350px;
+    height: 250px;
+    border-radius: 5px;
+    margin-left: 490px;
+    transform: translateY(-450px);
+}

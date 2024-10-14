@@ -1,0 +1,50 @@
+body{
+    background-image: url(./image.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.p1{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+    font-size: 12px;
+}
+
+.form1{
+    background-color: aqua;
+    margin-top: 160px;
+    margin-left: 150px;
+    border: none;
+    border-radius: 8px;
+    width: 180px;
+    letter-spacing: 5px;
+}
+
+.form2{
+    background-color: aqua;
+    margin-top: 50px;
+    margin-left: 150px;
+    border: none;
+    border-radius: 8px;
+    width: 180px;
+    letter-spacing: 5px;
+}
+
+.p2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    margin-left: 230px;
+}
+
+
+button{
+    background-color: chocolate;
+    border: none;
+    border-radius: 10px;
+    width: 150px;
+    height: 30px;
+    margin-top: 25px;
+    margin-left: 150px;
+    /* მარცხნიდან მარჯვნივ */
+}
