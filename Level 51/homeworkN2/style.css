@@ -1,0 +1,71 @@
+.box1 {
+    width: 500px;
+    height: 350px;
+    background-color: aqua;
+    position: relative;
+    right: 125px;
+    /* აქ ვეუბნები მარჯვნიდან მარცხნივ წაიღე ჩემი div block პოზიცია რომ არა მას ვერ გადავაადგილებდი ამიტომა საჭირო და გამოსადეგარი პოზიციები CSS ში */
+    
+}
+
+.box2 {
+    width: 500px;
+    height: 350px;
+    background-color: chocolate;
+    position: relative;
+    left: 500px;
+    /* ეს პოზიცია შვება იმას რომ განალაგოს სასურველი მიმართულებით პოზიციის გარეშე ჩვენ რომ left გავუწეროთ ანუ მარცხნიდან მარჯვნივ არ იზავს რადგან მაგის წინ არ არის მითითებული ეს კი იმის დასტურია რომ პოზიციები საუკეთესო გზაა CSS ში */
+}
+
+.box3 {
+    width: 320px;
+    height: 320px;
+    background-color: cadetblue;
+    position: absolute;
+    left: 500px;
+
+
+
+    /* აბსოლიტურად ყველგან შეგვიძლია განვალაგოთ ამ შემთხვევაში რაც გვაქვს მემაქვს div block */
+
+}
+/* . ეს არის კლასის ნიშანი ანუ ამას როდესაც ვწერთ ჩვენ უკვე მოგვაქვს ჩვენი კლასი */
+
+.box4 {
+    width: 550px;
+    height: 350px;
+    background-color: red;
+    margin-top: 250px;
+}
+    /*  next example fixed */
+.box5 {
+    width: 250px;
+    height: 150px;
+    background-color: rgb(202, 202, 32);
+    position: fixed;
+    margin-left: 650px;
+}
+
+.box6 {   
+    width: 250px;
+    height: 150px;
+    background-color: violet;
+    position: fixed;
+    display: inline;
+}
+
+/* now sticky */
+
+.box7 {
+    width: 500px;
+    height: 250px;
+    background-color: bisque;
+    position: sticky;
+}
+
+.box8 {
+    width: 60px;
+    height: 1.81px;
+    background-color: royalblue;
+    position: sticky;
+}
